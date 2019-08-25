@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/resource">
+        <file>img/votante.png</file>
+        <file>img/candidato.png</file>
+        <file>img/elecciones.png</file>
+        <file>img/login.png</file>
+        <file>img/perfil.png</file>
+        <file>img/registro.png</file>
+        <file>img/resultados.png</file>
+        <file>img/admin.png</file>
+    </qresource>
+</RCC>
